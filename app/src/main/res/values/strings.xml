@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BMI APP</string>
+    <string name="app_title">Check your perfect body weight and height ratio</string>
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
+</resources>
